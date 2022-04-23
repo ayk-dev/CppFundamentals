@@ -1,0 +1,5 @@
+﻿  CartesianProduct.cpp
+C:\Users\Beni\source\repos\Fundamentals\Arrays\CartesianProduct\CartesianProduct.cpp(17,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Beni\source\repos\Fundamentals\Arrays\CartesianProduct\CartesianProduct.cpp(31,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Beni\source\repos\Fundamentals\Arrays\CartesianProduct\CartesianProduct.cpp(32,27): warning C4018: '<': signed/unsigned mismatch
+  CartesianProduct.vcxproj -> C:\Users\Beni\source\repos\Fundamentals\Arrays\x64\Debug\CartesianProduct.exe

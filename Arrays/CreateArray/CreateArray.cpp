@@ -1,0 +1,29 @@
+#include <iostream>
+
+using namespace std;
+
+const unsigned maxSize = 200;
+
+bool getArray(int arr[], unsigned& arrSize) {
+    cin >> arrSize;
+
+    if (arrSize > maxSize) {
+        return false;
+    }
+
+    for (int i = 0; i < arrSize; i++) {
+        cin >> arr[i];
+    }
+
+    return true;
+}
+
+int main()
+{
+    unsigned arrSize;
+    int arr[maxSize];
+
+    getArray(arr, arrSize);
+
+    return 0;
+}

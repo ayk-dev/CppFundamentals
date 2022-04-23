@@ -1,0 +1,6 @@
+﻿  ClosestNumbers.cpp
+C:\Users\Beni\source\repos\Fundamentals\Arrays\ClosestNumbers\ClosestNumbers.cpp(18,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Beni\source\repos\Fundamentals\Arrays\ClosestNumbers\ClosestNumbers.cpp(34,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Beni\source\repos\Fundamentals\Arrays\ClosestNumbers\ClosestNumbers.cpp(35,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Beni\source\repos\Fundamentals\Arrays\ClosestNumbers\ClosestNumbers.cpp(38,36): warning C4018: '<=': signed/unsigned mismatch
+  ClosestNumbers.vcxproj -> C:\Users\Beni\source\repos\Fundamentals\Arrays\x64\Debug\ClosestNumbers.exe

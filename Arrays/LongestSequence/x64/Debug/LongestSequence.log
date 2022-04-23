@@ -1,0 +1,4 @@
+﻿  LongestSequence.cpp
+C:\Users\Beni\source\repos\Fundamentals\Arrays\LongestSequence\LongestSequence.cpp(17,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Beni\source\repos\Fundamentals\Arrays\LongestSequence\LongestSequence.cpp(39,23): warning C4018: '<': signed/unsigned mismatch
+  LongestSequence.vcxproj -> C:\Users\Beni\source\repos\Fundamentals\Arrays\x64\Debug\LongestSequence.exe
