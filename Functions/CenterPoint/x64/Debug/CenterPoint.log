@@ -1,0 +1,6 @@
+﻿  CenterPoint.cpp
+C:\Users\Beni\source\repos\Fundamentals\Functions\CenterPoint\CenterPoint.cpp(13,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Beni\source\repos\Fundamentals\Functions\CenterPoint\CenterPoint.cpp(16,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Beni\source\repos\Fundamentals\Functions\CenterPoint\CenterPoint.cpp(20,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Beni\source\repos\Fundamentals\Functions\CenterPoint\CenterPoint.cpp(23,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  CenterPoint.vcxproj -> C:\Users\Beni\source\repos\Fundamentals\Functions\x64\Debug\CenterPoint.exe

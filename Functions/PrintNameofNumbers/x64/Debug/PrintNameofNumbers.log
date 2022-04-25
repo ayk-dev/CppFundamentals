@@ -1,0 +1,6 @@
+﻿  PrintNameofNumbers.cpp
+C:\Users\Beni\source\repos\Fundamentals\Functions\PrintNameofNumbers\PrintNameofNumbers.cpp(152,32): warning C4101: 'thousands': unreferenced local variable
+C:\Users\Beni\source\repos\Fundamentals\Functions\PrintNameofNumbers\PrintNameofNumbers.cpp(152,9): warning C4101: 'units': unreferenced local variable
+C:\Users\Beni\source\repos\Fundamentals\Functions\PrintNameofNumbers\PrintNameofNumbers.cpp(152,16): warning C4101: 'tens': unreferenced local variable
+C:\Users\Beni\source\repos\Fundamentals\Functions\PrintNameofNumbers\PrintNameofNumbers.cpp(152,22): warning C4101: 'hundreds': unreferenced local variable
+  PrintNameofNumbers.vcxproj -> C:\Users\Beni\source\repos\Fundamentals\Functions\x64\Debug\PrintNameofNumbers.exe
