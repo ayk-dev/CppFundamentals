@@ -1,0 +1,3 @@
+﻿  NumeralSystem.cpp
+C:\Users\Beni\source\repos\Fundamentals\ExamPrep\NumeralSystem\NumeralSystem.cpp(17,19): warning C4267: '+=': conversion from 'size_t' to 'unsigned long', possible loss of data
+  NumeralSystem.vcxproj -> C:\Users\Beni\source\repos\Fundamentals\ExamPrep\x64\Debug\NumeralSystem.exe
