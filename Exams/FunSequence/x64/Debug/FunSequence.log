@@ -1,0 +1,3 @@
+﻿  FunSequence.cpp
+C:\Users\Beni\source\repos\Fundamentals\Exams\FunSequence\FunSequence.cpp(46,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  FunSequence.vcxproj -> C:\Users\Beni\source\repos\Fundamentals\Exams\x64\Debug\FunSequence.exe
